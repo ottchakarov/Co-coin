@@ -1,5 +1,5 @@
 {
-  "chainId": 103,  // Use 101 for mainnet-beta, 102 for testnet, and 103 for devnet
+  "chainId": 103, 
   "address": "Bx61TQ885LsJDkNZDw4o1EAH24ZEQruMvFBaDSGT5c66",
   "symbol": "COCO",
   "name": "Co-coin",
